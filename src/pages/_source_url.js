@@ -1,0 +1,1 @@
+export let srcUrl="https://raw.githubusercontent.com/webStrake/RCMCP_source/main";
